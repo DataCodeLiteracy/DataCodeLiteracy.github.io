@@ -4,11 +4,11 @@
 
 ### Started Default
 started:
-  title: "Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
+  title: "Hello, I’m <strong>Jong Hyun.</strong>, Front-end Developer"
   typed:
-    - "I code cool <strong>websites</strong>"
-    - "I develop <strong>mobile apps</strong>"
-    - "I love <strong>wordpress</strong>"
+    - "I I am <strong>persistent</strong>"
+    - "I never <strong>give up</strong>"
+    - "I love <strong>code</strong>"
 
 ### Started Personal
 started-personal:
@@ -18,7 +18,7 @@ started-personal:
     - "I develop <strong>mobile apps</strong>"
     - "I love <strong>wordpress</strong>"
   image: "assets/img/man.jpg"
-  
+
 ### Started Image
 started-image:
   title: "Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
@@ -27,7 +27,7 @@ started-image:
     - "I develop <strong>mobile apps</strong>"
     - "I love <strong>wordpress</strong>"
   image: "assets/img/started_image_p.jpg"
-  
+
 ### Started Video
 started-video:
   title: "Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
@@ -37,7 +37,7 @@ started-video:
     - "I love <strong>wordpress</strong>"
   video: "https://youtu.be/S4L8T2kFFck"
   image: "assets/img/started_image_p.jpg"
-  
+
 ### Started Slider
 started-slider:
   title: "Hello, I’m <strong>Alejandro Abeyta</strong>, UX/UI Designer and <br />Front-end Developer Based in San Francisco."
